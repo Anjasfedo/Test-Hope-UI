@@ -3,7 +3,7 @@
         <div class="col-md-12">
             <div class="flex-wrap d-flex justify-content-between align-items-center">
                 <div>
-                    <h1>Hello {{ auth()->user()->name }}!</h1>
+                    <h1>Haii {{ auth()->user()->name }}!</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem repudiandae, porro quaerat non ducimus a quod. Est, eveniet neque voluptatibus unde, nostrum vel consequuntur suscipit quam mollitia nisi fugit beatae!</p>
                 </div>
             </div>
