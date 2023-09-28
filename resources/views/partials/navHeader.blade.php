@@ -4,8 +4,7 @@
             <div class="flex-wrap d-flex justify-content-between align-items-center">
                 <div>
                     <h1>Hello {{ auth()->user()->name }}!</h1>
-                    <p>We are on a mission to help developers like you build successful projects for
-                        FREE.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem repudiandae, porro quaerat non ducimus a quod. Est, eveniet neque voluptatibus unde, nostrum vel consequuntur suscipit quam mollitia nisi fugit beatae!</p>
                 </div>
             </div>
         </div>
